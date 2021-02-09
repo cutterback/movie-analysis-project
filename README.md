@@ -14,6 +14,7 @@ Below is a list of the contents of this repository - instructions for using them
 - Microsoft_Movie_Market_Analysis.pdf: Final executive summary presentation with 3 proposals targeting a 5 minute pitch
 - data folder: Folder contains source data files available for use in the project
 - images folder: A folder for some images of plots used in presentation
+- .gitignore: A hidden file that tells git to not track certain files and folders
 
 [1]: <https://github.com/cutterback/movie-analysis-project/blob/main/Microsoft_Movie_Market_Analysis.pdf> "Microsoft Movie Analysis Project"
 [2]: <https://github.com/cutterback/movie-analysis-project/blob/main/movie-analysis.ipynb> "Jupyter movie analysis notebook"
